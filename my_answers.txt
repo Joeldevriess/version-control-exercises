@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Test
 test
 test
 test
+=======
+Add line
+Add line
+Add line
+Add line
+>>>>>>> 514b124ec461df40fb46c7806ecdb936571ecd0b
